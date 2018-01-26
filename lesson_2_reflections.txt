@@ -7,3 +7,7 @@ repository? What value do you think it offers?
 
 I should add file to the staging area. Buffer between dir and repo.
 
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+I can make gif diff to see what changes I have done.
